@@ -1,0 +1,5 @@
+・独自シェル実装
+https://www.slideshare.net/yusukesangenya/ss-135407412
+
+・あかりちゃんのF#講座
+faceRigとVR2を使う
